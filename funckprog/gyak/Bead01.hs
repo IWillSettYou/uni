@@ -1,0 +1,3 @@
+module Bead where
+
+xnor ::
