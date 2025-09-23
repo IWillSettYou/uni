@@ -1,0 +1,14 @@
+C:\uni\simpleprog\gyak\09.09cs\bin\Debug\net6.0\09.09cs.exe
+C:\uni\simpleprog\gyak\09.09cs\bin\Debug\net6.0\09.09cs.deps.json
+C:\uni\simpleprog\gyak\09.09cs\bin\Debug\net6.0\09.09cs.runtimeconfig.json
+C:\uni\simpleprog\gyak\09.09cs\bin\Debug\net6.0\09.09cs.dll
+C:\uni\simpleprog\gyak\09.09cs\bin\Debug\net6.0\09.09cs.pdb
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.AssemblyInfoInputs.cache
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.AssemblyInfo.cs
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.csproj.CoreCompileInputs.cache
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.dll
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\refint\09.09cs.dll
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.pdb
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\09.09cs.genruntimeconfig.cache
+C:\uni\simpleprog\gyak\09.09cs\obj\Debug\net6.0\ref\09.09cs.dll
