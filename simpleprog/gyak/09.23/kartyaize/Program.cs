@@ -60,25 +60,24 @@ namespace kartyaize
                     valasz = Console.ReadLine();
                 } while ((valasz == "y") || (valasz == "Y") || (valasz == "i") || (valasz == "I") || (valasz == ""));
 
-                if (osszeg == 20)
+                switch (osszeg)
                 {
-                    pont += 4;
-                    Console.WriteLine("\t\t\tKaptál 4 pontot!");
-                }
-                if (osszeg == 19)
-                {
-                    pont += 3;
-                    Console.WriteLine("\t\t\tKaptál 3 pontot!");
-                }
-                if (osszeg == 18)
-                {
-                    pont += 2;
-                    Console.WriteLine("\t\t\tKaptál 2 pontot!");
-                }
-                if (osszeg == 17)
-                {
-                    pont += 1;
-                    Console.WriteLine("\t\t\tKaptál 1 pontot!");
+                    case 20:
+                        pont += 4;
+                        Console.WriteLine("\t\t\tKaptál 4 pontot!");
+                        break;
+                    case 19:
+                        pont += 3;
+                        Console.WriteLine("\t\t\tKaptál 3 pontot!");
+                        break;
+                    case 18:
+                        pont += 2;
+                        Console.WriteLine("\t\t\tKaptál 2 pontot!");
+                        break;
+                    case 17:
+                        pont += 1;
+                        Console.WriteLine("\t\t\tKaptál 1 pontot!");
+                        break;
                 }
 
 
