@@ -1,6 +1,3 @@
-[submodule "funckgyak"]
-	path = funckgyak
-	url = https://github.com/IWillSettYou/funckgyak
 [submodule "linuskUni"]
 	path = linuskUni
 	url = https://github.com/IWillSettYou/linuskUni
